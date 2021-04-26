@@ -1,0 +1,28 @@
+body {
+    font-family: "Verdana",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: rgb(90, 35, 35);
+    background-color: chocolate;
+}
+
+.btn-primary {
+    color: beige;
+    background-color: #467e1e;
+    border-color: #467e1e;
+  /*
+   * Formatting the header area
+   */
+  header {
+    background-color: chocolate;
+    height: 35px;
+    width: 100%;
+    opacity: .9;
+    margin-bottom: 10px;
+  }
+  
+  table {
+      background-color:chocolate
+    border-spacing: 0;
+    border-collapse: collapse;
+}
