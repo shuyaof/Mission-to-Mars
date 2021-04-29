@@ -1,28 +1,36 @@
 body {
-    font-family: "Verdana",Helvetica,Arial,sans-serif;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: rgb(90, 35, 35);
-    background-color: chocolate;
+  font-family: "Verdana",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: rgb(90, 35, 35);
+  background-color: #9e9a97;
 }
 
 .btn-primary {
-    color: beige;
-    background-color: #467e1e;
-    border-color: #467e1e;
-  /*
-   * Formatting the header area
-   */
-  header {
-    background-color: chocolate;
-    height: 35px;
-    width: 100%;
-    opacity: .9;
-    margin-bottom: 10px;
-  }
-  
-  table {
-      background-color:chocolate
-    border-spacing: 0;
-    border-collapse: collapse;
+  color: beige;
+  background-color: #0f100f;
+  border-color: #0f100f;
+}
+
+header {
+  background-color: rgb(51, 29, 42);
+  height: 35px;
+  width: 100%;
+  opacity: .9;
+  margin-bottom: 10px;
+}
+
+table {
+  background-color:rgb(251 209 184);
+  border-spacing: 0;
+  border-collapse: collapse;
+ -webkit-text-fill-color: rgb(62 46 37);
+}
+
+.jumbotron {
+padding-top: 30px;
+padding-bottom: 30px;
+margin-bottom: 30px;
+color: inherit;
+background-color:rgb(92, 87, 84);
 }
